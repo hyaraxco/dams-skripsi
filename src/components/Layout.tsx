@@ -34,7 +34,7 @@ export default function Layout() {
         <aside className="w-64 bg-white border-r border-gray-200">
           <div className="h-full px-3 py-4 flex flex-col">
             <div className="mb-8 px-3 py-4">
-              <h1 className="text-xl font-bold text-gray-800">TaskMaster</h1>
+              <h1 className="text-xl font-bold text-gray-800">Taskifiy - Hyaraxco</h1>
             </div>
             <nav className="flex-1 space-y-1">
               {navItems.map((item) => {
